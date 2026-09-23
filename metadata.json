@@ -1,0 +1,6 @@
+{
+  "name": "AseelMart AP",
+  "description": "Andhra Pradesh Heritage Rooster & Aseel Marketplace with farm GPS tracking, verified breeder profiles, secure escrow payments, and end-to-end encrypted messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
